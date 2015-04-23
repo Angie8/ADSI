@@ -1,0 +1,34 @@
+#piedepagina {
+text-align:center;
+position: fixed;
+width: 100%;
+bottom: 15px;	
+}
+#tipoletra {
+font-size:20px;  
+font-family: Arial;
+}
+#forma{
+font-size:25px;  
+font-family: Arial;
+}
+#header{
+position: absolute;
+right: 2px
+}
+ul a {
+text-decoration: none;
+}
+ul a:hover{
+color:red;
+}
+td a {
+text-decoration: none;
+}
+td a:hover{
+color:#F7FE2E;
+font-weight: bold;
+}
+body {
+background-color: #5882FA
+}
